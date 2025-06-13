@@ -37,7 +37,6 @@
     padding: 0 10px;
     color: #fff;
     text-decoration: none;
-    /* background-color: #444; */
 }
 
 .container {
@@ -49,4 +48,8 @@
 .form-field {
     display: block;
     margin-bottom: 10px;
+}
+
+.class-selected {
+    background-color: #444;
 }
